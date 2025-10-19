@@ -3,7 +3,7 @@
 ###  ⋆˚࿔ Hi, I'm Meghana ✦˚⋆ 
 *I just want to be included in neuron gossips.🥺*
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVlZ2l3Y2NtNDdvendvMG1pOTVkNGY4dG9kdG4zbjlocG9vZmRxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" width = 260 align = "right">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVlZ2l3Y2NtNDdvendvMG1pOTVkNGY4dG9kdG4zbjlocG9vZmRxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" width = 240 align = "right">
 
 </div>
 
