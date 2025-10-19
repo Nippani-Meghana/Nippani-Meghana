@@ -13,7 +13,7 @@
 - Working across biophysical modeling and brain-inspired systems.  
 - Love to cook and go on daily walks.  
 - I sometimes play guitar, mostly to think.  
-- Currently learning: *computational neuroscience fundamentals and numerical stability (mine, not the model’s)*  
+- Currently learning: *computational neuroscience fundamentals and numerical stability (mine,   not the model’s)*  
 
 
 
