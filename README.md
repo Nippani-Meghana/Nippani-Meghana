@@ -7,7 +7,6 @@
 - Implementing stochastic neuron models (FitzHugh-Nagumo, LIF)
 - Replicating papers on neural dynamics and spike statistics
 - Learning numerical methods for SDEs
-- Research internship on out-of-distribution detection in spiking networks
 
 ## Interests
 
