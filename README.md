@@ -1,29 +1,22 @@
-# Hi, I'm Meghana
+## Hi! I'm Meghana                       
+<i>computational neuroscience • stochastic dynamics • information theory • active inference</i>
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVlZ2l3Y2NtNDdvendvMG1pOTVkNGY4dG9kdG4zbjlocG9vZmRxOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRRL1EKo9rNe12S4zh/giphy.gif" width="240" align="right">
+## About
 
-## What I'm working on
+I work on computational models of neural systems, implementing stochastic neuron models from differential equations, benchmarking against biological ground truth, and applying information-theoretic measures to characterize network dynamics.
 
-- Implementing stochastic neuron models (FitzHugh-Nagumo, LIF)
-- Replicating papers on neural dynamics and spike statistics
-- Learning numerical methods for SDEs
+My broader interests include predictive processing, active inference, and computational psychiatry, particularly how disruptions in neural computation may relate to psychiatric disorders.
 
-## Interests
+## Current Work
 
-- Neural encoding and spiking dynamics
-- Information theory applied to neural data
-- Single-neuron biophysics and network oscillations
-- How stochastic processes shape neural computation
+```python
+models = [
+    "Pospischil RS Cortical Neuron",
+    "Morris-Lecar",
+    "FitzHugh–Nagumo",
+    "Leaky Integrate-and-Fire",
+]
 
-## Other things
-
-I cook, take walks, and play guitar when I need to think through problems.
-
----
-
-**Tools**: Python • NumPy • SciPy • Matplotlib • Jupyter
-
-**Currently reading**: Rhythms of the Brain (Buzsáki), and papers on gamma oscillations
-
+```
 
 
